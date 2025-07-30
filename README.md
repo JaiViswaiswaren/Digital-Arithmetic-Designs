@@ -1,12 +1,14 @@
 # Digital-Arithmetic-Designs
 A curated set of arithmetic modules written in SystemVerilog, including multipliers (Booth, array), adders (Kogge-Stone, ripple-carry), and dividers. Designed for RTL-level understanding, simulation, and integration into digital systems or FPGA prototypes.
 
-Digital Arithmetic Designs is a SystemVerilog-based repository featuring clean and synthesizable implementations of core arithmetic units. The collection includes:
+Digital Arithmetic Designs is a SystemVerilog-based repository focused on creating modular and synthesizable arithmetic blocks.
 
-Multipliers: Booth, Array, etc.
+ Implemented so far:
+• Booth Multiplier (4-bit signed)
 
-Adders: Kogge-Stone, Ripple-Carry
+Planned Modules:
+• Kogge-Stone Adder
+• Basic Divider
+• Other multiplier variants
 
-Dividers: Basic restoring/non-restoring approaches
-
-Ideal for digital design learners, computer architecture projects, and FPGA-based system designs.
+Designed for use in FPGA projects, digital design labs, and learning core arithmetic logic.
