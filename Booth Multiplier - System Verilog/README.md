@@ -27,16 +27,9 @@ After each operation, an arithmetic right shift is performed. The implementation
 - AXB = `00010101` (decimal 21)
 <img width="2910" height="284" alt="image" src="https://github.com/user-attachments/assets/d7f8070a-957e-4671-9f2f-b70aefd6ce75" />
 
-## Simulation
-
-To simulate using Icarus Verilog:
-
 credits:for the image of booth multiplier
 https://vlsiverify.com/verilog/verilog-codes/booth-multiplier/ 
 
-```bash
-iverilog -o booth_sim Booth_Multiplier.sv Booth_Multiplier_tb.sv
-vvp booth_sim
 
 
 
