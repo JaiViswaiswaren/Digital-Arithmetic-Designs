@@ -4,7 +4,7 @@ A curated set of arithmetic modules written in SystemVerilog, including multipli
 Digital Arithmetic Designs is a SystemVerilog-based repository focused on creating modular and synthesizable arithmetic blocks.
 
  Implemented so far:
-• Booth Multiplier (4-bit signed)
+•  [Booth Multiplier] (https://github.com/JaiViswaiswaren/Digital-Arithmetic-Designs/tree/main/Booth%20Multiplier%20-%20System%20Verilog)(4-bit signed)
 
 Planned Modules:
 • Kogge-Stone Adder
